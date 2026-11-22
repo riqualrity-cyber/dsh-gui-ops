@@ -1,0 +1,4 @@
+bin/gui-ops
+.DS_Store
+node_modules/
+*.log

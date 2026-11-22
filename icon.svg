@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-label="GUI ops">
+  <g fill="none" stroke="#1f7a63" stroke-linecap="round">
+    <circle cx="18" cy="18" r="8" stroke-width="2.6"/>
+    <path d="M18 5v3.6M18 27.4V31M5 18h3.6M27.4 18H31" stroke-width="2.4"/>
+  </g>
+  <circle cx="18" cy="18" r="2.5" fill="#35b98a"/>
+</svg>

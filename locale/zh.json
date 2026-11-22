@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "GUI 操作原语",
+    "description": "macOS 上的精确 GUI 自动化：OCR 直接返回屏幕点坐标、按文字点击、用像素扫描读勾选状态、窗口尺寸写入后回读，以及一本跨会话的经验笔记。",
+    "detail": "docs/DETAIL.md"
+  }
+}

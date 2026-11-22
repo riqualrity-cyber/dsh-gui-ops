@@ -1,0 +1,5 @@
+# dsh-gui-ops bundle patch: mounts the Host plugin that registers the gui_*
+# tools. No client UI, no configuration schema changes.
+- insert:
+    - id: gui-ops
+      name: dsh-gui-ops

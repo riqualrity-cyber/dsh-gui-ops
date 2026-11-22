@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "GUI ops",
+    "description": "Precise GUI automation for macOS: OCR that returns point coordinates, click by text, read checkbox state from pixels, set window bounds with a read-back, and keep a cross-session lesson notebook.",
+    "detail": "docs/DETAIL.md"
+  }
+}

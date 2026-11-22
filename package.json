@@ -1,0 +1,35 @@
+{
+  "name": "dsh-gui-ops",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GUI automation primitives for DeepSeek Harness on macOS: OCR with point coordinates, click-by-text, checkbox state reads, verified window bounds, and a shared lesson notebook",
+  "type": "module",
+  "main": "index.js",
+  "icon": "./icon.svg",
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "docs",
+    "icon.svg",
+    "src",
+    "bin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "os": [
+    "darwin"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
